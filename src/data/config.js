@@ -1,5 +1,5 @@
 const CONFIG = {
-    PORT: 3000,
+    PORT: 3001,
     DB_URL: "mongodb://ds245715.mlab.com:45715/hack",
     DB_URL_AUTH: {
         PASSWORD: "admin",
