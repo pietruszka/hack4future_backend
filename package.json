@@ -1,0 +1,30 @@
+{
+  "name": "hack4future_backend",
+  "version": "1.0.0",
+  "description": "hackhaton backend repo",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pietruszka/hack4future_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pietruszka/hack4future_backend/issues"
+  },
+  "homepage": "https://github.com/pietruszka/hack4future_backend#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "mongoose": "^5.0.3",
+    "natural": "^0.5.6",
+    "request": "^2.83.0"
+  }
+}
