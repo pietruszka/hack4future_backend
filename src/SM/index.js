@@ -134,7 +134,7 @@ const getCrossWebEvents = async () => {
 
         };
     })
-    async.series(v, (err, result) => {console.log('cw')})
+    async.series(v, (err, result) => {})
 };
 
 const extractTags = () => {
